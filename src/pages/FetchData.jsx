@@ -4,12 +4,6 @@ import axios from "axios"
 
 const FetchData = () => {
 
-    // get
-    // post
-    // delete
-    // put
-    // get
-
     const [products, setProducts] = useState();
 
     const fetchData = async () => {
